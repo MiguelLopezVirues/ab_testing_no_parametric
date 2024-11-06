@@ -1,0 +1,1 @@
+Laboratorio de AB testing no paramétrico, módulo estadística. Bootcamp alto rendimiento Data Science Hackio.
